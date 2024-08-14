@@ -5,8 +5,8 @@ from bs4 import BeautifulSoup
 import os
 
 
-client_ID = "d8870ba3219d4726904b1a5e0b1a2073"
-client_secret = "2a401ee3bebb4fc6829e1eb11479f22d"
+client_ID = "*********"
+client_secret = "********"
 
 
 sp = spotipy.Spotify(
